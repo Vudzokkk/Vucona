@@ -1432,7 +1432,7 @@
         {
             type: 'CACTUS_SMALL',
             width: 17,
-            height: 35,
+            height: 300,
             yPos: 105,
             multipleSpeed: 4,
             minGap: 120,
